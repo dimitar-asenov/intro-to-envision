@@ -13,6 +13,71 @@
 			subDeclarations TypedListOfDeclaration {9cf393e2-0b16-45dd-9b7b-64ed230c6b89} {71e917c4-b535-4128-a8a5-399675017e41}
 			typeExpression PrimitiveTypeExpression {10258739-e41d-456b-9a7d-4d72c96da817} {71e917c4-b535-4128-a8a5-399675017e41}
 				val Integer {aab83305-5c3f-4dd9-8dc0-5a9bd5bcde62} {10258739-e41d-456b-9a7d-4d72c96da817}. I_0
+	comment CommentNode {16f77008-d638-4c3e-bb18-1efd298c205a} {ad5a54ce-1f09-453f-880f-1f7f4248d1c7}
+		codes TypedListOfCommentFreeNode {ae68ee56-3bff-4d1a-8342-86a37760b77e} {16f77008-d638-4c3e-bb18-1efd298c205a}
+		diagrams TypedListOfCommentDiagram {6bd37ee5-77f3-4cf1-bb37-4a29b7457b0e} {16f77008-d638-4c3e-bb18-1efd298c205a}
+		lines TypedListOfText {b887dcdd-c91e-45ee-aee8-f01da079a78c} {16f77008-d638-4c3e-bb18-1efd298c205a}
+			0 Text {709d9862-b7d0-46cc-80a5-96bf35756b81} {b887dcdd-c91e-45ee-aee8-f01da079a78c}. S_This method computes the factorial of a number
+			1 Text {c65ba14d-bfdf-46b1-9b49-f47bbdf03c51} {b887dcdd-c91e-45ee-aee8-f01da079a78c}. S_##Returns
+			2 Text {028bd5e7-3424-4671-8e2d-e931b7db0a19} {b887dcdd-c91e-45ee-aee8-f01da079a78c}. S_ * *1* if **x** is negative is 0.
+			3 Text {b2a0a24e-f279-4646-8e50-31caf4a82f02} {b887dcdd-c91e-45ee-aee8-f01da079a78c}. S_ * **x!** otherwise.
+			4 Text {46f18268-594a-446c-ad16-2f52d6fdd7c9} {b887dcdd-c91e-45ee-aee8-f01da079a78c}. S_## Examples
+			5 Text {02adf118-a6d0-420e-b70d-754c68603a6c} {b887dcdd-c91e-45ee-aee8-f01da079a78c}. S_[table#examples#2#6]
+			6 Text {70cb61e9-5232-438a-9d58-0ff4cb55cf8a} {b887dcdd-c91e-45ee-aee8-f01da079a78c}. S_
+			7 Text {0fd9b713-2b01-4bc7-a68c-58b32e1ec58b} {b887dcdd-c91e-45ee-aee8-f01da079a78c}. S_## Wiki
+			8 Text {5b4013fc-80e0-49a3-883c-6e5e90b9a4f0} {b887dcdd-c91e-45ee-aee8-f01da079a78c}. S_[browser#https://en.wikipedia.org/wiki/Factorial|650x300]
+		tables TypedListOfCommentTable {b9284c52-5843-4c8d-9fa7-80141ccc058f} {16f77008-d638-4c3e-bb18-1efd298c205a}
+			0 CommentTable {ad62b6c8-b28f-46da-8f34-d5eb6cd42ba4} {b9284c52-5843-4c8d-9fa7-80141ccc058f}
+				columnCount Integer {3d2c9750-e948-46f1-bf43-059df2da4fd0} {ad62b6c8-b28f-46da-8f34-d5eb6cd42ba4}. I_6
+				name Text {6c7998ec-7527-4980-bce8-7b3fcdd537e4} {ad62b6c8-b28f-46da-8f34-d5eb6cd42ba4}. S_examples
+				nodes TypedListOfCommentFreeNode {7e795e95-8b9b-40b5-81b5-32cd56ccd2bb} {ad62b6c8-b28f-46da-8f34-d5eb6cd42ba4}
+					0 CommentFreeNode {bceaee04-1c12-4c6f-9cb7-3f4e4153346a} {7e795e95-8b9b-40b5-81b5-32cd56ccd2bb}
+						name Text {c32a3212-4d11-40f7-81c8-69a97578def4} {bceaee04-1c12-4c6f-9cb7-3f4e4153346a}. S_examples_0_0
+						node CommentNode {f4119a07-cee7-41c6-9b1a-c4f91c6f4617} {bceaee04-1c12-4c6f-9cb7-3f4e4153346a}
+							codes TypedListOfCommentFreeNode {cfdd2a2b-9542-4c6f-bc52-c9af9eb4e8d1} {f4119a07-cee7-41c6-9b1a-c4f91c6f4617}
+							diagrams TypedListOfCommentDiagram {78f8ce08-efde-4605-9a5d-42c7151dc1ad} {f4119a07-cee7-41c6-9b1a-c4f91c6f4617}
+							lines TypedListOfText {9f82c6f8-fae7-4786-8d2c-0bf95aa76fa6} {f4119a07-cee7-41c6-9b1a-c4f91c6f4617}
+								0 Text {9feb93ad-6bfc-4d94-9ddc-4cb5b0d434d4} {9f82c6f8-fae7-4786-8d2c-0bf95aa76fa6}. S_**x**
+							tables TypedListOfCommentTable {ac2c7e77-545c-48da-ae8a-cf98a4b2f0a4} {f4119a07-cee7-41c6-9b1a-c4f91c6f4617}
+					1 CommentFreeNode {b9cfd080-18da-44c3-bf8e-d207dba107ac} {7e795e95-8b9b-40b5-81b5-32cd56ccd2bb}
+						name Text {047d65a8-dbc5-40d0-a3f0-151f4ff30b5d} {b9cfd080-18da-44c3-bf8e-d207dba107ac}. S_examples_1_0
+						node CommentNode {fabef092-7745-43a5-be65-d4bce5c0ce77} {b9cfd080-18da-44c3-bf8e-d207dba107ac}
+							codes TypedListOfCommentFreeNode {ac54e7cd-c7ea-4e8c-a11d-f609eba9a486} {fabef092-7745-43a5-be65-d4bce5c0ce77}
+							diagrams TypedListOfCommentDiagram {9f76c6d3-9ee8-4ccc-b398-19e168cabfe7} {fabef092-7745-43a5-be65-d4bce5c0ce77}
+							lines TypedListOfText {17f81d67-1c63-42ca-900c-356f71cbf638} {fabef092-7745-43a5-be65-d4bce5c0ce77}
+								0 Text {a9fc1bd8-5add-4977-adb9-ca8c2007e1c0} {17f81d67-1c63-42ca-900c-356f71cbf638}. S_**x!**
+							tables TypedListOfCommentTable {c72abb18-3a10-49c3-80c4-4ab8545e1238} {fabef092-7745-43a5-be65-d4bce5c0ce77}
+					2 CommentFreeNode {7520db0c-961e-49ac-8042-a08dac62725f} {7e795e95-8b9b-40b5-81b5-32cd56ccd2bb}
+						name Text {ca2f9f9d-1f22-48f7-8690-850e3879fcc3} {7520db0c-961e-49ac-8042-a08dac62725f}. S_examples_0_1
+						node CommentText {3bdf4feb-2657-428c-95ce-4bf4360da63f} {7520db0c-961e-49ac-8042-a08dac62725f}. S_0
+					3 CommentFreeNode {41b65747-83fd-4066-a467-36626849776f} {7e795e95-8b9b-40b5-81b5-32cd56ccd2bb}
+						name Text {3202c099-fc35-4e05-ba7e-85d1227b3167} {41b65747-83fd-4066-a467-36626849776f}. S_examples_1_1
+						node CommentText {41a83ca5-3d85-4bd6-9c9d-1594aa739fa4} {41b65747-83fd-4066-a467-36626849776f}. S_1
+					4 CommentFreeNode {daa36b38-9932-451f-8214-d4a242430bbd} {7e795e95-8b9b-40b5-81b5-32cd56ccd2bb}
+						name Text {293e77db-ae51-4129-a3df-ecdd5783abb2} {daa36b38-9932-451f-8214-d4a242430bbd}. S_examples_0_2
+						node CommentText {e65f20ec-c353-434a-97c8-3c1cc569ebb9} {daa36b38-9932-451f-8214-d4a242430bbd}. S_1
+					5 CommentFreeNode {37cd00d9-7621-41e6-bc45-f786ac865442} {7e795e95-8b9b-40b5-81b5-32cd56ccd2bb}
+						name Text {9ddf0001-77a3-47dd-bfa0-2a4bdcf342ba} {37cd00d9-7621-41e6-bc45-f786ac865442}. S_examples_1_2
+						node CommentText {9b010949-2a88-4794-a134-38941f07313b} {37cd00d9-7621-41e6-bc45-f786ac865442}. S_1
+					6 CommentFreeNode {d906764b-a822-4ce2-afdd-47654f57d5a3} {7e795e95-8b9b-40b5-81b5-32cd56ccd2bb}
+						name Text {19571aa5-5502-4042-bd6e-21c1b9d34e35} {d906764b-a822-4ce2-afdd-47654f57d5a3}. S_examples_0_3
+						node CommentText {ac6c1e3a-c50d-4201-877c-21c175af9507} {d906764b-a822-4ce2-afdd-47654f57d5a3}. S_2
+					7 CommentFreeNode {a7e2c761-be28-43e6-8c17-ee771a05e78e} {7e795e95-8b9b-40b5-81b5-32cd56ccd2bb}
+						name Text {26f84cee-2c93-452c-9347-eb8cbad28a25} {a7e2c761-be28-43e6-8c17-ee771a05e78e}. S_examples_1_3
+						node CommentText {5da73746-4370-4bb9-901c-4e82f868312c} {a7e2c761-be28-43e6-8c17-ee771a05e78e}. S_2
+					8 CommentFreeNode {7218e371-0c42-4130-8017-ceb6cee9b9f5} {7e795e95-8b9b-40b5-81b5-32cd56ccd2bb}
+						name Text {9520b4ea-a7d7-4980-ae5e-0e28b28f1e47} {7218e371-0c42-4130-8017-ceb6cee9b9f5}. S_examples_0_4
+						node CommentText {ffac6a7e-b92a-49a2-ab23-31ad123b4943} {7218e371-0c42-4130-8017-ceb6cee9b9f5}. S_3
+					9 CommentFreeNode {8ed60efe-2d2b-4c47-8db6-d808b6119542} {7e795e95-8b9b-40b5-81b5-32cd56ccd2bb}
+						name Text {66b43c21-259f-40b3-8e6a-b6030551bff1} {8ed60efe-2d2b-4c47-8db6-d808b6119542}. S_examples_1_4
+						node CommentText {ae74f61d-8f01-41cf-a371-7001dc192e52} {8ed60efe-2d2b-4c47-8db6-d808b6119542}. S_6
+					10 CommentFreeNode {c44d6e7a-1b58-49cf-8423-11244a71461e} {7e795e95-8b9b-40b5-81b5-32cd56ccd2bb}
+						name Text {ac449f51-4434-498a-9d27-549b94cf3d7d} {c44d6e7a-1b58-49cf-8423-11244a71461e}. S_examples_0_5
+						node CommentText {712f2c16-5223-4507-b249-4122d2c1d209} {c44d6e7a-1b58-49cf-8423-11244a71461e}. S_5
+					11 CommentFreeNode {dc0b2cfd-26c2-43bd-a011-d05a26539770} {7e795e95-8b9b-40b5-81b5-32cd56ccd2bb}
+						name Text {ddfd0726-d56e-4c0e-95c8-59af71987463} {dc0b2cfd-26c2-43bd-a011-d05a26539770}. S_examples_1_5
+						node CommentText {a543ac04-da7a-4529-934d-7fbc015a2b39} {dc0b2cfd-26c2-43bd-a011-d05a26539770}. S_120
+				rowCount Integer {8ddf0320-e03b-4c67-ae8f-1c3eb5ccc67e} {ad62b6c8-b28f-46da-8f34-d5eb6cd42ba4}. I_2
 	items StatementItemList {75cda7a8-97de-4c6e-911a-4d6c8d4fe331} {ad5a54ce-1f09-453f-880f-1f7f4248d1c7}
 		0 ExpressionStatement {e7d147b8-0b3d-4088-9991-77033ed94b7b} {75cda7a8-97de-4c6e-911a-4d6c8d4fe331}
 			expression VariableDeclarationExpression {9a7e86ed-178c-4261-8d25-b92d9b3605b1} {e7d147b8-0b3d-4088-9991-77033ed94b7b}
