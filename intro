@@ -1,0 +1,14 @@
+intro Class {51fdd5ca-e0f7-4344-9831-41fdeb644572} {00000000-0000-0000-0000-000000000000}
+	annotations StatementItemList {e3ed9bb0-b818-4138-ae34-df55c893a7d3} {51fdd5ca-e0f7-4344-9831-41fdeb644572}
+	baseClasses TypedListOfExpression {f76ca57f-e790-4c02-84a6-aca195860d09} {51fdd5ca-e0f7-4344-9831-41fdeb644572}
+	cKind Integer {427b0edc-4882-474c-b8f9-ac11634a7dce} {51fdd5ca-e0f7-4344-9831-41fdeb644572}. I_0
+	classes TypedListOfClass {74c16369-ff7e-40f1-9320-829009362b20} {51fdd5ca-e0f7-4344-9831-41fdeb644572}
+	enumerators TypedListOfEnumerator {d6bb8452-f7da-4447-b9f7-023042e9a9a6} {51fdd5ca-e0f7-4344-9831-41fdeb644572}
+	fields TypedListOfField {2959e905-0314-426a-a145-7c9f162cc3b3} {51fdd5ca-e0f7-4344-9831-41fdeb644572}
+	friends TypedListOfDeclaration {c7dcd7e3-d786-43ce-8ee6-13428777efd9} {51fdd5ca-e0f7-4344-9831-41fdeb644572}
+	metaCalls TypedListOfExpression {991bd9cf-3b2d-40cc-bbd8-9cc7c97b3744} {51fdd5ca-e0f7-4344-9831-41fdeb644572}
+	methods TypedListOfMethod {e3816561-2803-43fb-8fc5-e505a849a4d4} {51fdd5ca-e0f7-4344-9831-41fdeb644572}
+	modifiers Modifier {e39f91fa-4537-40d7-b7e5-eff560419049} {51fdd5ca-e0f7-4344-9831-41fdeb644572}. I_1
+	name NameText {0ee8fa6c-71cb-47da-8765-8427ed31922c} {51fdd5ca-e0f7-4344-9831-41fdeb644572}. S_Hello
+	subDeclarations TypedListOfDeclaration {1d923c52-3b94-4316-a821-fc1008647c8c} {51fdd5ca-e0f7-4344-9831-41fdeb644572}
+	typeArguments TypedListOfFormalTypeArgument {dce2de84-037b-42a7-b73b-2a0cb1f4c7f3} {51fdd5ca-e0f7-4344-9831-41fdeb644572}
