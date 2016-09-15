@@ -9,6 +9,8 @@ intro Class {51fdd5ca-e0f7-4344-9831-41fdeb644572} {00000000-0000-0000-0000-0000
 	metaCalls TypedListOfExpression {991bd9cf-3b2d-40cc-bbd8-9cc7c97b3744} {51fdd5ca-e0f7-4344-9831-41fdeb644572}
 	methods TypedListOfMethod {e3816561-2803-43fb-8fc5-e505a849a4d4} {51fdd5ca-e0f7-4344-9831-41fdeb644572}
 		0 persistencenewunit {23993b4d-148c-4758-b77c-5aff6a6f778a} {e3816561-2803-43fb-8fc5-e505a849a4d4}. S_main {23993b4d-148c-4758-b77c-5aff6a6f778a}
+		1 persistencenewunit {ce3c0c14-e18f-4eb3-8304-60b54338ee56} {e3816561-2803-43fb-8fc5-e505a849a4d4}. S_foo {ce3c0c14-e18f-4eb3-8304-60b54338ee56}
+		2 persistencenewunit {ad5a54ce-1f09-453f-880f-1f7f4248d1c7} {e3816561-2803-43fb-8fc5-e505a849a4d4}. S_factorial {ad5a54ce-1f09-453f-880f-1f7f4248d1c7}
 	modifiers Modifier {e39f91fa-4537-40d7-b7e5-eff560419049} {51fdd5ca-e0f7-4344-9831-41fdeb644572}. I_1
 	name NameText {0ee8fa6c-71cb-47da-8765-8427ed31922c} {51fdd5ca-e0f7-4344-9831-41fdeb644572}. S_Hello
 	subDeclarations TypedListOfDeclaration {1d923c52-3b94-4316-a821-fc1008647c8c} {51fdd5ca-e0f7-4344-9831-41fdeb644572}

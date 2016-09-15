@@ -1,0 +1,15 @@
+1 Method {ce3c0c14-e18f-4eb3-8304-60b54338ee56} {e3816561-2803-43fb-8fc5-e505a849a4d4}
+	_ext_Position_x Integer {dfeb8404-465c-4fe3-9a4c-d7bc97a8ad54} {ce3c0c14-e18f-4eb3-8304-60b54338ee56}. I_0
+	_ext_Position_y Integer {313104cd-2edb-4747-9db8-8d92f3f2e734} {ce3c0c14-e18f-4eb3-8304-60b54338ee56}. I_1
+	annotations StatementItemList {2f92cfd6-1e9f-43e7-b274-2da2bdb1f418} {ce3c0c14-e18f-4eb3-8304-60b54338ee56}
+	arguments TypedListOfFormalArgument {2c36dc1d-7628-4f5f-9840-07686a81c14b} {ce3c0c14-e18f-4eb3-8304-60b54338ee56}
+	items StatementItemList {41b72e63-2bcb-43ba-92d8-5f042664e8ae} {ce3c0c14-e18f-4eb3-8304-60b54338ee56}
+	memberInitializers TypedListOfMemberInitializer {02e43766-232c-483f-a601-37da7b55d931} {ce3c0c14-e18f-4eb3-8304-60b54338ee56}
+	metaCalls TypedListOfExpression {6c89ac03-2a12-4178-949b-38c94284c59c} {ce3c0c14-e18f-4eb3-8304-60b54338ee56}
+	modifiers Modifier {c1f73986-b75e-4ba2-8eb8-fde6b8823ba5} {ce3c0c14-e18f-4eb3-8304-60b54338ee56}. I_1
+	mthKind Integer {e43e186a-5a64-4170-9914-a0da048ea96f} {ce3c0c14-e18f-4eb3-8304-60b54338ee56}. I_0
+	name NameText {e50f46dc-9076-4e33-901e-ea637566a5ff} {ce3c0c14-e18f-4eb3-8304-60b54338ee56}. S_foo
+	results TypedListOfFormalResult {adaecfe0-7c1a-4c13-87d8-66eba0a66a69} {ce3c0c14-e18f-4eb3-8304-60b54338ee56}
+	subDeclarations TypedListOfDeclaration {011146ed-dadd-4a63-8c7b-d22027ea1b7f} {ce3c0c14-e18f-4eb3-8304-60b54338ee56}
+	throws TypedListOfExpression {51880c7b-8e1c-4127-9fa5-3698d9d4b734} {ce3c0c14-e18f-4eb3-8304-60b54338ee56}
+	typeArguments TypedListOfFormalTypeArgument {bb0721a0-dfc0-4518-a52b-d65629a3960f} {ce3c0c14-e18f-4eb3-8304-60b54338ee56}
