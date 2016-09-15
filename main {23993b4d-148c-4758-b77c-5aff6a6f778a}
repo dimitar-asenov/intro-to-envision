@@ -4,6 +4,24 @@
 	annotations StatementItemList {1f7eb577-5572-4e06-a80a-5b98fade2c02} {23993b4d-148c-4758-b77c-5aff6a6f778a}
 	arguments TypedListOfFormalArgument {89d0bd1b-183c-4b92-bf2d-f94a65eae6aa} {23993b4d-148c-4758-b77c-5aff6a6f778a}
 	items StatementItemList {8da8df6f-20ab-475d-9980-b7d764c3b1f1} {23993b4d-148c-4758-b77c-5aff6a6f778a}
+		0 ExpressionStatement {b59c0bf8-9738-4fca-a7c5-cb5fb0af20c0} {8da8df6f-20ab-475d-9980-b7d764c3b1f1}
+			expression MethodCallExpression {aae24ea4-9e2d-4b01-beb8-63ff15e03243} {b59c0bf8-9738-4fca-a7c5-cb5fb0af20c0}
+				arguments TypedListOfExpression {b6924031-f908-4e7e-af71-b41124f7a50e} {aae24ea4-9e2d-4b01-beb8-63ff15e03243}
+					0 StringLiteral {5555c3b5-269c-45f6-b65e-dfa80cc5cf65} {b6924031-f908-4e7e-af71-b41124f7a50e}
+						value Text {2361c267-ed62-4ec7-9921-ded296b8c57a} {5555c3b5-269c-45f6-b65e-dfa80cc5cf65}. S_Hello world
+				cKind Integer {850b64f5-40ac-4f70-853d-2fb58eaee1fc} {aae24ea4-9e2d-4b01-beb8-63ff15e03243}. I_0
+				callee ReferenceExpression {6b2cd121-4c34-4738-980b-49d690b34a9f} {aae24ea4-9e2d-4b01-beb8-63ff15e03243}
+					memKind Integer {06427104-c79d-4ce2-9526-fb8d99aca0b7} {6b2cd121-4c34-4738-980b-49d690b34a9f}. I_0
+					prefix ReferenceExpression {29c92d48-1e18-4729-9355-8bd26ca33e2f} {6b2cd121-4c34-4738-980b-49d690b34a9f}
+						memKind Integer {ba799ca8-c936-40c6-b3bd-d2d64984d996} {29c92d48-1e18-4729-9355-8bd26ca33e2f}. I_0
+						prefix ReferenceExpression {37c268ea-6423-4eaf-8929-5a7fa834b4e5} {29c92d48-1e18-4729-9355-8bd26ca33e2f}
+							memKind Integer {e4ec069c-8011-4f0b-8d32-14d82831c466} {37c268ea-6423-4eaf-8929-5a7fa834b4e5}. I_0
+							ref OOReference {f22315d0-19c3-4ae6-8544-0b79fe6d09c8} {37c268ea-6423-4eaf-8929-5a7fa834b4e5}. S_____NULL____:System
+							typeArguments TypedListOfExpression {b3ea660f-ad82-4e57-abe0-f11b5da753cc} {37c268ea-6423-4eaf-8929-5a7fa834b4e5}
+						ref OOReference {09514aca-9688-4656-b5f9-66bfc716ffdb} {29c92d48-1e18-4729-9355-8bd26ca33e2f}. S_____NULL____:out
+						typeArguments TypedListOfExpression {f63b1be9-04ef-408c-8326-d832ac3748f0} {29c92d48-1e18-4729-9355-8bd26ca33e2f}
+					ref OOReference {f975c14f-3483-4de6-8b05-3f25ebb8da6c} {6b2cd121-4c34-4738-980b-49d690b34a9f}. S_____NULL____:println
+					typeArguments TypedListOfExpression {93cbd755-f285-4ad4-86c5-9374aa6ab15e} {6b2cd121-4c34-4738-980b-49d690b34a9f}
 	memberInitializers TypedListOfMemberInitializer {18ecd989-0cec-43cf-825c-9957049cdf32} {23993b4d-148c-4758-b77c-5aff6a6f778a}
 	metaCalls TypedListOfExpression {fafbc83f-1555-4dcf-a7d2-cdbc1b7da7d9} {23993b4d-148c-4758-b77c-5aff6a6f778a}
 	modifiers Modifier {152a4344-f6cc-4b8d-b90c-b9cd67a22a3d} {23993b4d-148c-4758-b77c-5aff6a6f778a}. I_9
